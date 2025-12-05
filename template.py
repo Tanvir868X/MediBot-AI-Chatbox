@@ -13,6 +13,8 @@ list_of_files =[
 "setup.py",
 "app.py",
 "research/trails.ipynb"
+"src/store_index.py",
+"src/template.py",
 
 ]
 
